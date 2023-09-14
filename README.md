@@ -1,23 +1,23 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Junior Pacheco, Web developer</h1>
 
+<!--h2 without bottom border-->
+<h2 align="center"><em>Confusion is part of Programming</em></h2>
+
+<table><tr><td valign="top" width="50%">
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1X09339AV_8mClQBPAxYyxZ_MqEDNyg1X" width="100%" alt="Banner">
 </p>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+</td><td valign="top" width="50%">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<h1 align="left"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me</h1>
 
 <br>
 
 Currently, I am an instructor for the Full-Stack Web Development and Computer Science programs at Academlo, educating individuals from across Latin America in web development.
 
-<br>
+</td></tr></table>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -35,14 +35,8 @@ Currently, I am an instructor for the Full-Stack Web Development and Computer Sc
 
 <br>
 
-<!--Trophies -->
-<div>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/JuniorPacheco/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JuniorPacheco&row=4&theme=onedark&no-frame=true"/>
-</div>
-
 <!--- stats & Trophy (start) -->
+<h1 align="left">Statistics</h1>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -63,3 +57,34 @@ Currently, I am an instructor for the Full-Stack Web Development and Computer Sc
 </table>
 <!--- stats (end) -->
 </p>   
+
+<br>
+
+<h1 align="left">Connect with me</h1>
+<br>
+<div align="center">
+<a href="https://github.com/JuniorPacheco" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Junifabi97" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/juniorfabianpachecomoyano-desarrollador/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/2698010/rafi-abro" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+<a href="https://portfoliov2-jfpm.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+</div>  
+
+<br><br>
+
+<!--Trophies -->
+<div>
+    <h1 align="left">Trophies</h1>
+    <a href="https://github.com/JuniorPacheco/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JuniorPacheco&row=4&theme=onedark&no-frame=true"/>
+</div>
