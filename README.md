@@ -75,7 +75,7 @@ Currently, I am an instructor for the Full-Stack Web Development and Computer Sc
 <a href="https://stackoverflow.com/users/2698010/rafi-abro" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-<a href="https://portfoliov2-jfpm.netlify.app/" target="_blank">
+<a href="https://junior-pacheco.dev/" target="_blank">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>  
